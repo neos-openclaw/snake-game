@@ -1,0 +1,7 @@
+{
+  "type": "sqlite",
+  "database": "snake-game.db",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true,
+  "logging": false
+}
